@@ -57,7 +57,7 @@ rag-system/
 
 Due to infrastructure setup (Redis, Qdrant, and API usage), the project is demonstrated via recorded execution.
 
-🔗 Demo Link: YOUR_VIDEO_LINK
+🔗 Demo Link: https://drive.google.com/drive/folders/1uPLtrFIX7AR6og8tQcSchVyqWZoesowy?usp=sharing
 
 ---
 
